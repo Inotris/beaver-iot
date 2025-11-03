@@ -265,6 +265,12 @@
             <version>${project.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.milesight.beaveriot.integrations</groupId>
+            <artifactId>EM400</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
         <!-- unit test -->
         <!--<dependency>
             <groupId>org.junit.platform</groupId>
